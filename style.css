@@ -78,3 +78,13 @@ p   {
     background-color: hsl(179, 100%, 13%);
     color: hsl(0, 0%, 95%);
 }
+a{
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+    border-radius: 15px;
+    padding: 20px;
+}
+a:hover{
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+}
